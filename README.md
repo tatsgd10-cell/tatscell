@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Encabezado con estética rosa claro -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=73BDA8&height=200&section=header&text=¡Hola!%20MI%20NOMBRE%20ES%20TATIANA&fontSize=42&fontColor=ffffff&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=73BDA8&height=200&section=header&text=¡Hola!%20MI%20NOMBRE%20ES%20TATIANA&fontSize=42&fontColor=ffccdd&fontAlignY=35" width="100%" />
 
   <h3> Diseñadora Gráfica &  Aprendiz de Desarrollo Web</h3>
 
