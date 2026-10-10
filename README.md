@@ -6,7 +6,7 @@
 
   <h3> Diseñadora Gráfica &  Aprendiz de Desarrollo Web</h3>
 
-  <p><i>¡CREEMOS COSAS MARAVILLOSAS JUNTOS!</i></p>
+  <p><i>¡CREEMOS COSAS MARAVILLOSAS JUNTOS!!!</i></p>
 
   <p>
     <a href="tatsgd10@gmail.com">
